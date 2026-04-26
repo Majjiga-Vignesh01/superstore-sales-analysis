@@ -6,7 +6,6 @@ This project performs an end-to-end analysis of retail sales data to uncover key
 
 The objective is to transform raw data into meaningful insights that support business decision-making.
 
----
 
 ## 🎯 Business Problem
 
@@ -19,7 +18,6 @@ Retail businesses often struggle to understand:
 
 This project aims to answer these questions using data analysis.
 
----
 
 ## 🎯 Objectives
 
@@ -29,8 +27,6 @@ This project aims to answer these questions using data analysis.
 * Evaluate the impact of discounts on profit
 * Identify high-value customers
 
----
-
 ## 📂 Dataset
 
 The dataset used is the Superstore retail dataset.
@@ -38,8 +34,6 @@ The dataset used is the Superstore retail dataset.
 * `superstore_raw.csv` → Original dataset
 * `superstore_cleaned.csv` → Cleaned dataset used for analysis
 * `superstore_cleaned.xlsx` → Excel file used during cleaning
-
----
 
 ## 🧹 Data Cleaning (Excel)
 
@@ -54,9 +48,9 @@ Data cleaning was performed using Excel to ensure accuracy and consistency.
 * Identified and highlighted loss-making transactions
 
 📸 **Cleaning Screenshot:**
-![Excel Cleaning](images/excel_cleaning.png)
+![Excel Cleaning] <img width="955" height="456" alt="cleaned dataset excel" src="https://github.com/user-attachments/assets/0209a229-442e-402f-aaa6-68eec0bc222d" />
 
----
+
 
 ## 🧠 SQL Analysis
 
@@ -73,8 +67,6 @@ SQL was used to perform detailed data analysis and extract insights.
 
 📁 SQL Queries: `sql/analysis.sql`
 
----
-
 ## 📊 Power BI Dashboard
 
 An interactive dashboard was created using Power BI to visualize insights.
@@ -89,9 +81,9 @@ An interactive dashboard was created using Power BI to visualize insights.
 * Discount vs Profit Analysis
 
 📸 **Dashboard Preview:**
-![Dashboard](powerbi/dashboard.png)
+![Dashboard] <img width="959" height="486" alt="powerbidashboard png" src="https://github.com/user-attachments/assets/f54157ed-b36d-4f17-803b-3ecb791ffdae" />
 
----
+
 
 ## 📈 Key Insights
 
@@ -101,16 +93,12 @@ An interactive dashboard was created using Power BI to visualize insights.
 * A small group of customers contributes a large portion of revenue
 * Sales show noticeable variation across different months
 
----
-
 ## 🛠 Tools Used
 
 * Excel → Data Cleaning
 * MySQL → Data Analysis
 * Power BI → Data Visualization
 * GitHub → Project Management
-
----
 
 ## 🚀 Project Workflow
 
@@ -120,13 +108,11 @@ An interactive dashboard was created using Power BI to visualize insights.
 4. Data Visualization (Power BI)
 5. Insights & Reporting
 
----
 
 ## 📌 Conclusion
 
 This project demonstrates how raw retail data can be transformed into actionable business insights using data analysis tools. It highlights the importance of data cleaning, structured analysis, and effective visualization in solving real-world business problems.
 
----
 
 ## 📁 Project Structure
 
@@ -150,7 +136,7 @@ superstore-sales-analysis/
 ├── README.md
 ```
 
----
+
 
 ## 📬 Contact
 
