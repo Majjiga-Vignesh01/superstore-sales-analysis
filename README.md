@@ -141,3 +141,12 @@ superstore-sales-analysis/
 ## 📬 Contact
 
 For any queries or collaboration opportunities, feel free to connect.
+
+
+
+## 💡 Key Skills Demonstrated
+- Data Cleaning and Preprocessing  
+- SQL Data Analysis  
+- Business Insight Generation  
+- Data Visualization (Power BI)  
+- Problem Solving using Data  
