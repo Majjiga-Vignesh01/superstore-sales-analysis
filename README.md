@@ -81,7 +81,8 @@ An interactive dashboard was created using Power BI to visualize insights.
 * Discount vs Profit Analysis
 
 📸 **Dashboard Preview:**
-![Dashboard] <img width="959" height="486" alt="powerbidashboard png" src="https://github.com/user-attachments/assets/f54157ed-b36d-4f17-803b-3ecb791ffdae" />
+![Dashboard] <img width="625" height="343" alt="Screenshot 2026-04-22 203602" src="https://github.com/user-attachments/assets/c139522a-1aa0-403c-bf38-76ad6b05d5d3" />
+
 
 
 
